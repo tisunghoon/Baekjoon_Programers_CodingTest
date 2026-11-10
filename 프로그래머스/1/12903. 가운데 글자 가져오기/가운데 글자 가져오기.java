@@ -26,3 +26,5 @@ class Solution {
 */
 
 
+
+// || &&, charat, substring, length(), contains, add, size, 람다함수, 스트림, string.valueOf
